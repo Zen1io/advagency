@@ -14,7 +14,7 @@ SECRET_KEY = 'django-insecure-dzg#m!+5ez7q8q+aoerlwpg#e$+0)f$fi2wim$%5^p5(9jiixd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jam-agency.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
@@ -122,7 +122,8 @@ LOGOUT_REDIRECT_URL = 'home'
 
 import dj_database_url
 DATABASES = {
-    'default': dj_database_url.config()
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',  # or postgresql, mysql, etc.
+        'NAME': BASE_DIR / 'db.sqlite3',         # for sqlite3
+    }
 }
-
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')

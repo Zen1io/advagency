@@ -1,0 +1,1515 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-05-28T07:33:15.743Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Услуги автокрана",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-05-28T07:33:51.917Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "мастер слесарь",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-05-28T07:47:04.898Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "Биллборд",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-05-28T07:47:29.424Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "Штендер",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-05-28T07:50:57.539Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "Оформление витрин, фасадов, интерьеров",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-05-28T07:51:43.668Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "Оклейка автомобилей",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-05-28T07:52:04.137Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "Баннера на фасаде зданий",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-05-28T07:52:21.345Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "Объемные буквы",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-05-28T11:45:27.929Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "мастер слесарь",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-05-28T11:45:27.929Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Услуги автокрана",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-05-28T11:53:24.122Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Изготовление вывески на билборд",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-05-28T11:54:21.450Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Изготовление штендера",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-05-28T11:54:56.278Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Оформление витрин, фасадов, интерьеров",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-05-28T11:55:35.414Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Оклейка автомобилей",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-05-28T11:56:22.063Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Изготовление баннера",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-05-28T11:57:09.348Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Изготовление объемных букв",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-05-28T13:18:45.923Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Изготовление объемных букв",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-05-28T13:18:59.988Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Изготовление объемных букв",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-05-28T13:19:34.241Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Изготовление штендера",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-05-28T13:19:54.785Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Оклейка автомобилей",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-05-28T13:20:36.449Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Изготовление вывески на билборд",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-05-28T13:20:47.189Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Изготовление баннера",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-05-28T13:20:59.062Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Оформление витрин, фасадов, интерьеров",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u041a\\u043e\\u0434 \\u0443\\u0441\\u043b\\u0443\\u0433\\u0438\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.865Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Изготовление вывески на билборд - авва вфыаы (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.865Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Изготовление баннера - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.866Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.866Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Изготовление штендера - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.866Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Изготовление штендера - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.866Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Изготовление баннера - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.866Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2025-06-03T17:31:59.866Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (28.05.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2025-06-03T18:19:37.997Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "admin",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Discount\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.992Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "24",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.992Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "23",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.992Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "22",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.992Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "21",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.992Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "20",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "19",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "18",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "17",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "16",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "15",
+    "object_repr": "Изготовление штендера - Антон Королёв (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Изготовление штендера - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Изготовление штендера - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2025-06-03T18:20:06.993Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Изготовление объемных букв - Артём Аношин (03.06.2025)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add user profile",
+    "content_type": 7,
+    "codename": "add_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change user profile",
+    "content_type": 7,
+    "codename": "change_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete user profile",
+    "content_type": 7,
+    "codename": "delete_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view user profile",
+    "content_type": 7,
+    "codename": "view_userprofile"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 8,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 8,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 8,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 8,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add service",
+    "content_type": 9,
+    "codename": "add_service"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change service",
+    "content_type": 9,
+    "codename": "change_service"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete service",
+    "content_type": 9,
+    "codename": "delete_service"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view service",
+    "content_type": 9,
+    "codename": "view_service"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add portfolio item",
+    "content_type": 10,
+    "codename": "add_portfolioitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change portfolio item",
+    "content_type": 10,
+    "codename": "change_portfolioitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete portfolio item",
+    "content_type": 10,
+    "codename": "delete_portfolioitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view portfolio item",
+    "content_type": 10,
+    "codename": "view_portfolioitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add quote request",
+    "content_type": 11,
+    "codename": "add_quoterequest"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change quote request",
+    "content_type": 11,
+    "codename": "change_quoterequest"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete quote request",
+    "content_type": 11,
+    "codename": "delete_quoterequest"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view quote request",
+    "content_type": 11,
+    "codename": "view_quoterequest"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add billboard preview",
+    "content_type": 12,
+    "codename": "add_billboardpreview"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change billboard preview",
+    "content_type": 12,
+    "codename": "change_billboardpreview"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete billboard preview",
+    "content_type": 12,
+    "codename": "delete_billboardpreview"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view billboard preview",
+    "content_type": 12,
+    "codename": "view_billboardpreview"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$dphWwXp2IbQyvY1ErBwB2T$pFzN4c9BW3UmJaARy3ddWEBFTiDffTdEBoJj9EIxE3U=",
+    "last_login": "2025-06-04T18:14:45.540Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "Артём",
+    "last_name": "Аношин",
+    "email": "artemk11233123120@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-05-28T07:32:17.785Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$93K0jSqlnhVaXt8xrLjIiS$U9t9wrJtILFm//B96UbAxMFRbygVCvozn+nXTPglOWc=",
+    "last_login": "2025-06-03T17:03:12.963Z",
+    "is_superuser": false,
+    "username": "testuser",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-28T07:53:32.302Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$vG4tFKoEdCTQNcG48D3ymu$9hkYt1jSZooSgiWX2FgsOfunTxRDpnCmUw2NtrpAM4c=",
+    "last_login": "2025-06-03T17:30:16.462Z",
+    "is_superuser": false,
+    "username": "aa12",
+    "first_name": "авва",
+    "last_name": "вфыаы",
+    "email": "aa@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-05-28T15:26:05.517Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 4,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$cBOi8n5LNRGPmcEGW0JSLn$otDMHxC/gitXEIL4pnqRr1eeZFnfVTivf3Ca0PDjZSI=",
+    "last_login": "2025-06-03T17:44:13.299Z",
+    "is_superuser": false,
+    "username": "123",
+    "first_name": "Антон",
+    "last_name": "Королёв",
+    "email": "fdsjfajk@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-03T17:42:02.140Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 5,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$vnKcIAJTHjfReJdZCETQUH$qylWaUHKu+kH6Q0TOVbbM7PK0LiLnkgUY8CDuZ0TYRU=",
+    "last_login": "2025-06-04T18:02:28.718Z",
+    "is_superuser": false,
+    "username": "a1aa",
+    "first_name": "Bkmz",
+    "last_name": "Fdfkskla",
+    "email": "dadas@mail.ru",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2025-06-04T18:01:46.482Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "accounts",
+    "model": "userprofile"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "pricing",
+    "model": "service"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "pricing",
+    "model": "portfolioitem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "pricing",
+    "model": "quoterequest"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "previews",
+    "model": "billboardpreview"
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 1,
+  "fields": {
+    "user": 2,
+    "phone_number": "",
+    "discount": 0
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "phone_number": "891111",
+    "discount": 5
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 3,
+  "fields": {
+    "user": 3,
+    "phone_number": "111",
+    "discount": 0
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 4,
+  "fields": {
+    "user": 4,
+    "phone_number": "896661111",
+    "discount": 0
+  }
+},
+{
+  "model": "accounts.userprofile",
+  "pk": 5,
+  "fields": {
+    "user": 5,
+    "phone_number": "8911212121",
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 25,
+  "fields": {
+    "service": 8,
+    "client": 1,
+    "client_name": "Артём Аношин",
+    "phone": "891111",
+    "comment": "",
+    "width": 1.0,
+    "height": 1.0,
+    "estimated_price": "350.00",
+    "material": "plastic",
+    "created_at": "2025-06-03T18:20:23.434Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 26,
+  "fields": {
+    "service": 8,
+    "client": 1,
+    "client_name": "Артём Аношин",
+    "phone": "891111",
+    "comment": "",
+    "width": 43.0,
+    "height": 1.0,
+    "estimated_price": "15050.00",
+    "material": "plastic",
+    "created_at": "2025-06-03T18:20:49.340Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 27,
+  "fields": {
+    "service": 8,
+    "client": 1,
+    "client_name": "Артём Аношин",
+    "phone": "891111",
+    "comment": "",
+    "width": 1.0,
+    "height": 1.0,
+    "estimated_price": "332.50",
+    "material": "plastic",
+    "created_at": "2025-06-03T18:21:02.139Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 28,
+  "fields": {
+    "service": 8,
+    "client": 1,
+    "client_name": "Артём Аношин",
+    "phone": "891111",
+    "comment": "я чмо",
+    "width": 1.0,
+    "height": 1.0,
+    "estimated_price": "332.50",
+    "material": "plastic",
+    "created_at": "2025-06-04T03:09:49.183Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 29,
+  "fields": {
+    "service": 3,
+    "client": 1,
+    "client_name": "Артём Аношин",
+    "phone": "891111",
+    "comment": "",
+    "width": 1.0,
+    "height": 1.0,
+    "estimated_price": "475.00",
+    "material": "banner_fabric",
+    "created_at": "2025-06-04T17:39:47.840Z"
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 30,
+  "fields": {
+    "service": 4,
+    "client": 5,
+    "client_name": "Bkmz Fdfkskla",
+    "phone": "8911212121",
+    "comment": "Z utq",
+    "width": 5.0,
+    "height": 1.0,
+    "estimated_price": "1500.00",
+    "material": "pvc",
+    "created_at": "2025-06-04T18:03:11.678Z"
+  }
+},
+{
+  "model": "pricing.service",
+  "pk": 3,
+  "fields": {
+    "title": "Изготовление вывески на билборд",
+    "description": "Биллборд - щит 3*6 - cамые распространенные и популярные конструкции в России для проведения любых типов рекламных кампаний.",
+    "image": "services/example1_716hSbg_ct8JlTS.jpg",
+    "price_per_m2": "500.00",
+    "code": "billboard"
+  }
+},
+{
+  "model": "pricing.service",
+  "pk": 4,
+  "fields": {
+    "title": "Изготовление штендера",
+    "description": "Штендер - это небольшой рекламный щит (до 1,5 кв.м), одно или двусторонний, выполненный в виде раскладного «домика».",
+    "image": "services/example5_szmJIXJ_TiQBjIb.jpg",
+    "price_per_m2": "300.00",
+    "code": "stand"
+  }
+},
+{
+  "model": "pricing.service",
+  "pk": 5,
+  "fields": {
+    "title": "Оформление витрин, фасадов, интерьеров",
+    "description": "Поклейка витрин и окон - не дорогой и быстрый способ сообщить потребителю о предстоящей акции",
+    "image": "services/example6_Qw26lVo.jpg",
+    "price_per_m2": "400.00",
+    "code": "showcase"
+  }
+},
+{
+  "model": "pricing.service",
+  "pk": 6,
+  "fields": {
+    "title": "Оклейка автомобилей",
+    "description": "Десятки тысяч людей смогут ежедневно видеть рекламу на машине или автобусе,  что не только позволяет им запомнить название компании, но и вызывает определенный потребительский интерес.",
+    "image": "services/mazda_628_OR3uOHB.jpg",
+    "price_per_m2": "450.00",
+    "code": "car_wrap"
+  }
+},
+{
+  "model": "pricing.service",
+  "pk": 7,
+  "fields": {
+    "title": "Изготовление баннера",
+    "description": "Баннер представляет собой краткий и заманчивый текст рекламного характера, заявляющий о существовании интересных для покупателей предложений, будь то товары, услуги, скидки или месторасположение компании.",
+    "image": "services/example3_t4I9Eah.jpg",
+    "price_per_m2": "400.00",
+    "code": "facade_banner"
+  }
+},
+{
+  "model": "pricing.service",
+  "pk": 8,
+  "fields": {
+    "title": "Изготовление объемных букв",
+    "description": "Когда необходима эффективная наружная реклама, объемные буквы становятся настоящей находкой.",
+    "image": "services/example4_Uq4ajkw.jpg",
+    "price_per_m2": "600.00",
+    "code": "letters"
+  }
+},
+{
+  "model": "pricing.portfolioitem",
+  "pk": 1,
+  "fields": {
+    "title": "Биллборд",
+    "description": "",
+    "image": "portfolio/example1_716hSbg.jpg",
+    "created_at": "2025-05-28"
+  }
+},
+{
+  "model": "pricing.portfolioitem",
+  "pk": 2,
+  "fields": {
+    "title": "Штендер",
+    "description": "",
+    "image": "portfolio/example5_szmJIXJ_TiQBjIb.jpg",
+    "created_at": "2025-05-28"
+  }
+},
+{
+  "model": "pricing.portfolioitem",
+  "pk": 3,
+  "fields": {
+    "title": "Оформление витрин, фасадов, интерьеров",
+    "description": "",
+    "image": "portfolio/example6_Qw26lVo.jpg",
+    "created_at": "2025-05-28"
+  }
+},
+{
+  "model": "pricing.portfolioitem",
+  "pk": 4,
+  "fields": {
+    "title": "Оклейка автомобилей",
+    "description": "",
+    "image": "portfolio/mazda_628_OR3uOHB.jpg",
+    "created_at": "2025-05-28"
+  }
+},
+{
+  "model": "pricing.portfolioitem",
+  "pk": 5,
+  "fields": {
+    "title": "Баннера на фасаде зданий",
+    "description": "",
+    "image": "portfolio/example3_t4I9Eah.jpg",
+    "created_at": "2025-05-28"
+  }
+},
+{
+  "model": "pricing.portfolioitem",
+  "pk": 6,
+  "fields": {
+    "title": "Объемные буквы",
+    "description": "",
+    "image": "portfolio/example4_Uq4ajkw.jpg",
+    "created_at": "2025-05-28"
+  }
+},
+{
+  "model": "previews.billboardpreview",
+  "pk": 1,
+  "fields": {
+    "user": 1,
+    "uploaded_design": "uploads/designs/загруженное.png",
+    "result_preview": "previews/preview_admin.jpg",
+    "created_at": "2025-06-03T14:30:53.651Z"
+  }
+},
+{
+  "model": "previews.billboardpreview",
+  "pk": 2,
+  "fields": {
+    "user": 1,
+    "uploaded_design": "uploads/designs/загруженное_k6uqsRU.png",
+    "result_preview": "previews/preview_admin_fukN2Ob.jpg",
+    "created_at": "2025-06-03T14:31:53.444Z"
+  }
+},
+{
+  "model": "previews.billboardpreview",
+  "pk": 3,
+  "fields": {
+    "user": 1,
+    "uploaded_design": "uploads/designs/загруженное_3XAZmS8.png",
+    "result_preview": "previews/preview_admin_oS4VYWd.jpg",
+    "created_at": "2025-06-03T14:33:15.246Z"
+  }
+}
+]
